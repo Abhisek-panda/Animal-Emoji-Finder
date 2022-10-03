@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+
+
+.App {
+  font-family: 'Mulish', sans-serif;
+  text-align: center;
+}
+
+#meaning{
+  font-weight: bolder;
+}
+
+#emoji-input{
+  padding: 7px;
+  border-color: blue;
+  border-radius: 7px;
+}
+
+#emoji-span{
+  margin: 5px;
+  padding: 10px;
+}
+
+#emoji-span:hover{
+  background-color: blue;
+  border-radius: 10px;
+
+}
+#showing-data{
+  font-weight: bold;
+}
